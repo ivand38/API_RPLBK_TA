@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvsFwnRmuKCA34hDZiDTt2Ke4k6zPSBZ5Nm5bGd9ejeZHVUdeLTWx3OhZB5tZVCsG3g2X2URBsEAJZ+O1JsfTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC-04\\Downloads\\Kel25_Mod9_TugasAPI\\Kel25_Mod9_TugasAPI\\Kel25_Mod9_TugasAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-04\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\PC-04\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\appsettings.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.exe
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.deps.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.runtimeconfig.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.pdb
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.AssemblyInfo.cs
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.Kel25_Mod9_TugasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Kel25_Mod9_TugasAPI.props
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kel25_Mod9_TugasAPI.props
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kel25_Mod9_TugasAPI.props
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\scopedcss\bundle\Kel25_Mod9_TugasAPI.styles.css
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.CopyComplete
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\refint\Kel25_Mod9_TugasAPI.dll
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.pdb
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.genruntimeconfig.cache
+D:\Kuliah\Semester 7\Prak RPLBK\Modul 9\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\ref\Kel25_Mod9_TugasAPI.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.exe
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.deps.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.runtimeconfig.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Kel25_Mod9_TugasAPI.pdb
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.AssemblyReference.cache
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.AssemblyInfoInputs.cache
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.AssemblyInfo.cs
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.Kel25_Mod9_TugasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Kel25_Mod9_TugasAPI.props
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Kel25_Mod9_TugasAPI.props
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Kel25_Mod9_TugasAPI.props
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\scopedcss\bundle\Kel25_Mod9_TugasAPI.styles.css
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.csproj.CopyComplete
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\refint\Kel25_Mod9_TugasAPI.dll
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.pdb
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\Kel25_Mod9_TugasAPI.genruntimeconfig.cache
+C:\Users\PC-04\Downloads\Kel25_Mod9_TugasAPI\Kel25_Mod9_TugasAPI\obj\Debug\net7.0\ref\Kel25_Mod9_TugasAPI.dll
