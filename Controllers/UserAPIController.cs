@@ -1,11 +1,15 @@
 ﻿using Kel25_Mod9_TugasAPI.Data;
 using Kel25_Mod9_TugasAPI.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 
 namespace Kel25_Mod9_TugasAPI.Controllers
+
 {
+
     [Route("api/UserAPI")]
     [ApiController]
+
     public class UserAPIController : ControllerBase
     {
         [HttpGet]
@@ -58,18 +62,24 @@ namespace Kel25_Mod9_TugasAPI.Controllers
             {
                 return BadRequest("Username/Password Invalid");
             }
-            
-            var user=UserStore.userList.FirstOrDefault(u=>u.Username==userDTO.Username);
+
+            var user = UserStore.userList.FirstOrDefault(u => u.Username == userDTO.Username);
             if (user == null)
             {
                 return NotFound("Username tidak ditemukan");
             }
 
-            if(user.Password!=userDTO.Password)
+            if (user.Password != userDTO.Password)
             {
                 return Unauthorized("Password Salah");
             }
-            return Ok("berhasil login");
+            var data = new
+            {
+                Id = user.Id,
+                Username = user.Username
+            };
+            
+            return Ok(JsonSerializer.Serialize(data));
         }
 
         [HttpDelete("{id:int}", Name = "DeleteUser")]
